@@ -1,6 +1,7 @@
 N = int(input("ВВедите N:"))
 i = N
 i -= 1
+#начало положено
 countAllMax = 0
 for k in range(0, i + 1):
     count = 0
